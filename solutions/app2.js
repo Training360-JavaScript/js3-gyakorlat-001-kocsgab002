@@ -9,7 +9,7 @@ let HU = {
         currency: 'HUF'
     }).format(number)},
 
-    list(array ='') {return `${array[0]}, ${array[1]} és ${array[2]}`};
+    list(array ='') {return `${array[0]}, ${array[1]} és ${array[2]}`}
 }
 
 
